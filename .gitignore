@@ -1,7 +1,9 @@
 *.pt
-env
-venv
 .DS_Store
+*.csv
 
 RegSeq_100_genes_data/
 data/
+
+env
+venv
