@@ -1,0 +1,7 @@
+*.pt
+env
+venv
+.DS_Store
+
+RegSeq_100_genes_data/
+data/
